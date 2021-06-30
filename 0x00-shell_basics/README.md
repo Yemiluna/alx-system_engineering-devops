@@ -18,12 +18,12 @@ All of the following files are scripts, except holberton.mgc:
 | [`4-listmorefiles`](https://github.com/Yemiluna/alx-system_engineering-devops/blob/main/0x00-shell_basics/4-listmorefiles) | Displays, in the long format, current directory contents, including hidden files |
 | [`5-listfilesdigitonly`](https://github.com/Yemiluna/alx-system_engineering-devops/blob/main/0x00-shell_basics/5-listfilesdigitonly) | Displays current directory contents with user and group IDs |
 | [`6-firstdirectory`](https://github.com/Yemiluna/alx-system_engineering-devops/blob/main/0x00-shell_basics/6-firstdirectory) | Creates a directory named holberton in the /tmp/ directory |
-| [`7-movethatfile`](https://github.com/Yemiluna/alx-system_engineering-devops/tree/main/0x03-shell_variables_expansions) | Moves the file betty from /tmp/ to /tmp/holberton |
-| [`8-firstdelete`](https://github.com/Yemiluna/alx-system_engineering-devops/tree/main/0x03-shell_variables_expansions) | Deletes the file betty |
-| [`9-firstdirdeletion`](https://github.com/Yemiluna/alx-system_engineering-devops/tree/main/0x03-shell_variables_expansions) | Deletes the directory holberton that is in the /tmp directory |
-| [`10-back`](https://github.com/Yemiluna/alx-system_engineering-devops/tree/main/0x03-shell_variables_expansions) | Changes the working directory to the previous one |
-| [`11-lists`](https://github.com/Yemiluna/alx-system_engineering-devops/tree/main/0x03-shell_variables_expansions) | Lists all files in the current directory and its parent directory and the /boot directory |
-| [`12-file_type`](https://github.com/Yemiluna/alx-system_engineering-devops/tree/main/0x03-shell_variables_expansions) | Prints the type of the file named iamafile that is in the /tmp directory |
+| [`7-movethatfile`](https://github.com/Yemiluna/alx-system_engineering-devops/blob/main/0x00-shell_basics/7-movethatfile) | Moves the file betty from /tmp/ to /tmp/holberton |
+| [`8-firstdelete`](https://github.com/Yemiluna/alx-system_engineering-devops/blob/main/0x00-shell_basics/8-firstdelete) | Deletes the file betty |
+| [`9-firstdirdeletion`](https://github.com/Yemiluna/alx-system_engineering-devops/blob/main/0x00-shell_basics/9-firstdirdeletion) | Deletes the directory holberton that is in the /tmp directory |
+| [`10-back`](https://github.com/Yemiluna/alx-system_engineering-devops/blob/main/0x00-shell_basics/10-back) | Changes the working directory to the previous one |
+| [`11-lists`](https://github.com/Yemiluna/alx-system_engineering-devops/blob/main/0x00-shell_basics/11-lists) | Lists all files in the current directory and its parent directory and the /boot directory |
+| [`12-file_type`](https://github.com/Yemiluna/alx-system_engineering-devops/blob/main/0x00-shell_basics/12-file_type) | Prints the type of the file named iamafile that is in the /tmp directory |
 | [`13-symbolic_link`](https://github.com/Yemiluna/alx-system_engineering-devops/blob/main/0x00-shell_basics/13-symbolic_link) | Creates a symbolic link to /bin/ls, named __ls__ |
 | [`14-copy_html`](https://github.com/Yemiluna/alx-system_engineering-devops/blob/main/0x00-shell_basics/14-copy_html) | Copies all the HTML files from the current working directory to the parent directory, but only copies files that did not exist in the parent directory |
 | [`100-lets_move`](https://github.com/Yemiluna/alx-system_engineering-devops/blob/main/0x00-shell_basics/100-lets_move) | Moves all files beginning with an uppercase letter to the directory /tmp/u |
