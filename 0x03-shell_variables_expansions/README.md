@@ -22,8 +22,8 @@ All of the following files are scripts:
 | [`8-true_knowledge`](https://github.com/Yemiluna/alx-system_engineering-devops/blob/main/0x03-shell_variables_expansions/8-true_knowledge) | Prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line |
 | [`9-divide_and_rule`](https://github.com/Yemiluna/alx-system_engineering-devops/blob/main/0x03-shell_variables_expansions/9-divide_and_rule) | Prints the result of POWER divided by DIVIDE, followed by a new line |
 | [`10-love_exponent_breath`](https://github.com/Yemiluna/alx-system_engineering-devops/blob/main/0x03-shell_variables_expansions/10-love_exponent_breath) | Displays the result of BREATH to the power LOVE |
-| [`11-binary_to_decimal`](https://github.com/Yemiluna/alx-system_engineering-devops/blob/main/0x03-shell_variables_expansions/ | Converts a number from base 2 to base 10 |
-| [`12-combinations`](https://github.com/Yemiluna/alx-system_engineering-devops/blob/main/0x03-shell_variables_expansions/11-binary_to_decimal) | Prints all possible combinations of two letters, except oo |
+| [`11-binary_to_decimal`](https://github.com/Yemiluna/alx-system_engineering-devops/blob/main/0x03-shell_variables_expansions/11-binary_to_decimal) | Converts a number from base 2 to base 10 |
+| [`12-combinations`](https://github.com/Yemiluna/alx-system_engineering-devops/blob/main/0x03-shell_variables_expansions/12-combinations) | Prints all possible combinations of two letters, except oo |
 | [`13-print_float`](https://github.com/Yemiluna/alx-system_engineering-devops/blob/main/0x03-shell_variables_expansions/13-print_float) | Prints a number with two decimal places. The number is stored in the environment variable NUM |
 | [`14-decimal_to_hexadecimal`](https://github.com/Yemiluna/alx-system_engineering-devops/blob/main/0x03-shell_variables_expansions/14-decimal_to_hexadecimal) | Converts a number from base 10 to base 16 |
 | [`100-rot13`](https://github.com/Yemiluna/alx-system_engineering-devops/blob/main/0x03-shell_variables_expansions/100-rot13) | Encodes and decodes text using the rot13 encryption |
